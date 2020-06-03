@@ -1,0 +1,13 @@
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.genruntimeconfig.cache

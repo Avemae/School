@@ -1,0 +1,13 @@
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\bin\Debug\netcoreapp3.1\FindObjects.exe
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\bin\Debug\netcoreapp3.1\FindObjects.deps.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\bin\Debug\netcoreapp3.1\FindObjects.runtimeconfig.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\bin\Debug\netcoreapp3.1\FindObjects.runtimeconfig.dev.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\bin\Debug\netcoreapp3.1\FindObjects.dll
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\bin\Debug\netcoreapp3.1\FindObjects.pdb
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.csprojAssemblyReference.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.AssemblyInfoInputs.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.AssemblyInfo.cs
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.dll
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.pdb
+C:\Users\Sandra\Documents\Programming\Projects\h1\object-oriented_prog\FindObjects\FindObjects\obj\Debug\netcoreapp3.1\FindObjects.genruntimeconfig.cache

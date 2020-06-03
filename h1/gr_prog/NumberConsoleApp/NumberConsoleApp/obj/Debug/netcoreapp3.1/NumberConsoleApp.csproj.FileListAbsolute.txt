@@ -1,0 +1,13 @@
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\bin\Debug\netcoreapp3.1\NumberConsoleApp.exe
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\bin\Debug\netcoreapp3.1\NumberConsoleApp.deps.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\bin\Debug\netcoreapp3.1\NumberConsoleApp.runtimeconfig.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\bin\Debug\netcoreapp3.1\NumberConsoleApp.runtimeconfig.dev.json
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\bin\Debug\netcoreapp3.1\NumberConsoleApp.dll
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\bin\Debug\netcoreapp3.1\NumberConsoleApp.pdb
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.csprojAssemblyReference.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.AssemblyInfo.cs
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.dll
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.pdb
+C:\Users\Sandra\Documents\Programming\Projects\h1\gr_prog\NumberConsoleApp\NumberConsoleApp\obj\Debug\netcoreapp3.1\NumberConsoleApp.genruntimeconfig.cache
